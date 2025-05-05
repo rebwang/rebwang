@@ -1,8 +1,9 @@
 ## Hi there 👋 I am Rebecca
 
-🎓 CS Align @ Northeastern Khoury
-🌱 Software Engineer Intern @ DEVA
-⚡ Specialize in full-stack software development
+ 🎓 CS Align @ Northeastern Khoury  
+ 🌱 Software Engineer Intern @ DEVA  
+ ⚡ Specialize in full-stack software development  
+ 
 
 ## Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
