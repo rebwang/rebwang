@@ -3,6 +3,7 @@
  🎓 CS Align @ Northeastern Khoury      
  🌱 Software Engineer Intern @ DEVA  
  ⚡ Specialize in full-stack software development  
+ 💼 Ex - Trust & Safety @ LinkedIn
  
 
 ## Languages & Tools
