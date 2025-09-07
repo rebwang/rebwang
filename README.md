@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Rebecca
 
- 🎓 MSCS @ Northeastern Khoury      
+ 🎓 MSCS @ Northeastern University      
  🌱 Software Engineer Intern @ DEVA  
  ⚡ Specialize in full-stack software development  
  
