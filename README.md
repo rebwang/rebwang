@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Rebecca
 
- 🎓 CS Align @ Northeastern Khoury      
+ 🎓 MSCS @ Northeastern Khoury      
  🌱 Software Engineer Intern @ DEVA  
  ⚡ Specialize in full-stack software development  
  
